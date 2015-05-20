@@ -1,2 +1,2 @@
-# Info
-This repository contains the links and the information for the workshop
+# Bugs
+This repository is used to file bugs in the QA scenario.
